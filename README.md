@@ -3,7 +3,7 @@
   
 # Project Title
 
-One Paragraph of project description goes here
+Kriging
 
 ## Getting Started
 
@@ -11,7 +11,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+The following modules are necessary for installing Pykriging:
+- numpy
+- matplotlib
+- scipy
 
 ```
 Give examples

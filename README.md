@@ -1,17 +1,17 @@
-# learn
+# PyKriging
 [![Build Status](https://travis-ci.org/mpcsdspa/learn.svg?branch=master)](https://travis-ci.org/mpcsdspa/learn) [![Coverage Status](https://coveralls.io/repos/github/mpcsdspa/learn/badge.svg?branch=master)](https://coveralls.io/github/mpcsdspa/learn?branch=master) [![Documentation Status](https://readthedocs.org/projects/asdjfhj/badge/?version=latest)](http://asdjfhj.readthedocs.io/en/latest/?badge=latest)
   
-# Project Title
+# PyKriging
 
-Kriging
+Kriging is an invaluable tool in understanding the behavior of sparse data. It has proven effective in many aspects of engineering and in applications where data is "expensive", or difficult, to collect.
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### Dependencies
 
-The following modules are necessary for installing Pykriging:
+The core dependencies are:
 - numpy
 - matplotlib
 - scipy
@@ -40,7 +40,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+If you wish to see a working build/test script please see our codevoc.yml.
 
 ### Break down into end to end tests
 
@@ -78,17 +78,15 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Suraj Sanka** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Vinod Kumar Metla** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Mrinalgouda Patil** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Prabhu Ramachandran
+* Madhu Belur
+* Kumar Appaiah
 

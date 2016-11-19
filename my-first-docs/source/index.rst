@@ -10,7 +10,7 @@ Welcome to PyKriging's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   all-about-me
+   intro
 
 Indices and tables
 ==================

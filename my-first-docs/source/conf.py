@@ -58,7 +58,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Learn'
+project = u'Pykriging'
 copyright = u'2016, Mrinal'
 author = u'Mrinal'
 

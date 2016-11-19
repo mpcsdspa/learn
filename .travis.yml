@@ -6,9 +6,11 @@ python:
 install:
   - pip install coverage
   - pip install python-coveralls
+  - pip install codecov
 
 script:
   - python tests.py
 
 after_success:
   - coveralls
+  - codecov
